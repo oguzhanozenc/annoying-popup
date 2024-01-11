@@ -16,9 +16,9 @@ The Annoying Pop-Up is built using the following technologies:
 
 **HTML/CSS: **Provides the structure and styling for the annoyance.
 **JavaScript:** Powers the dynamic behavior of the pop-up.
-   ** Modal Display: **Utilizes a modal for user interaction.
+   ** Modal Display**: Utilizes a modal for user interaction.
    ** Delayed Display**: Implements a setTimeout function for delayed pop-up appearance.
-   ** Dynamic Content:** Alters modal content dynamically during user interactions.
+   **Dynamic Content**: Alters modal content dynamically during user interactions.
 - **SVG and GIF Images**: Enhancing the annoyance factor with visual elements.
 
 ## Getting Started
