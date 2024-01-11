@@ -37,7 +37,7 @@ consentForm.addEventListener("submit", function (e) {
   setTimeout(function () {
     document.getElementById("modal-inner").innerHTML = `
         <h2>Thanks <span class="modal-display-name">${fullName}</span>! </h2>
-        <p>We will contact with you soon.</p>
+        <p>We will contact you soon.</p>
         <div class="thanks-gif">
             <img src="images/thanks.gif">
         </div>
